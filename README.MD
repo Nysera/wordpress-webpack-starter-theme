@@ -12,12 +12,13 @@ Wordpress Webpack Starter Theme is a custom theme with webpack set up and ready 
 3. The starter theme is now ready to start
 
 ### Developing locally
-To start the project locally
+To start the project locally run:
 ```
 npm run start
 ```
 
 ### Building for Production
+To create an optimized production ready build run:
 ```
 npm run build
 ```
