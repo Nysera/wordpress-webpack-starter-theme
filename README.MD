@@ -7,9 +7,10 @@ Wordpress Webpack Starter Theme is a custom theme with webpack set up and ready 
 
 ## What to configure
 
-1. Edit `Theme Name` in style.css to your desired wordpress theme name, optionally you can also add a `Description` in the same area
-2. Go to resources > build > webpack.dev.js and change the `proxy` to match your development site URL
-3. The starter theme is now ready to start
+1. Run `npm install` in directory to install all npm packages
+2. Edit `Theme Name` in style.css to your desired wordpress theme name, optionally you can also add a `Description` in the same area
+3. Go to resources > build > webpack.dev.js and change the `proxy` to match your development site URL
+4. The starter theme is now ready to start
 
 ### Developing locally
 To start the project locally run:
